@@ -1,1 +1,1 @@
-patika-dev sql alıştırmaları.
+Patika-SQL-Tutorials
